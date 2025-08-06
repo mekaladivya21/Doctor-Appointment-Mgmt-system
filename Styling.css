@@ -1,0 +1,103 @@
+.banner{
+    background-color: #39939b;
+    font-weight: bolder;
+    height: 50px;
+}
+
+.heading{
+    margin-left: 40%;
+    padding-top: 1%;
+}
+.homepage{
+    margin-left: 2%;
+    margin-top: 4%;
+}
+.aptmntpage{
+    margin-left: 2%;
+    margin-top: 4%;
+    width: 1000%;
+}
+nav{
+    font-weight: bold;
+    color: white;
+    border: 2px solid rgb(214, 220, 239);
+    text-align: center;
+    background-color: rgb(214, 220, 239);
+   
+}
+a{
+    text-decoration-line: none;
+    display: inline-block;
+    margin: 0.5%;
+  
+}
+h2{
+    margin-top: 5%;
+}
+.booking{
+    margin-left: 40%;
+}
+.formheading{
+
+    text-align: center;
+}
+body{
+    background: url("Images/Background_Image.jpg");
+    background-repeat: repeat-y;
+    background-color: #b6b6b6;
+    background-size: 100%;
+}
+.footerDetails {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    margin-top: 30%;
+    width: 100%;
+    position: relative;
+}
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    margin-top: 3%;
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    font-style: italic;
+    color: black;
+  }
+  .container img {
+    margin-top: 2%;
+    max-width: 50%; 
+    margin-right: 20px; 
+  }
+  .payment {
+    color:black;
+    position: absolute;
+    padding: 0 20px;
+    left: 30%;
+  }
+.title{
+    font-size: 26px;
+    text-align: center;
+    text-transform: capitalize;
+    /* padding: 40px; */
+    padding-top: 50px;
+}
+.carDetails{
+    font-size: 15px;
+    text-align: center;
+    text-transform: capitalize;
+}
+ .details{
+    margin-left: -16%;
+    position: relative;
+    /* display: flow-root; */
+    padding-left: -20%;
+ }
+ 
+
